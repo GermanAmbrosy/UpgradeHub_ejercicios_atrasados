@@ -1,0 +1,60 @@
+
+
+.imagen {
+    
+    padding: 5%;
+    max-width: 25%;
+
+}
+
+.bloque {
+    display: inline;
+}
+
+.bloquedos{
+    padding: 10%;
+    margin: 10%;
+}
+
+.derecha {
+    display: flex;
+}
+
+.formulario {
+
+}
+
+.primera-lista{
+    display: block;
+    padding: 5%;
+    margin: auto;
+    
+}
+
+.second-list{
+    display: flex;
+    padding: 5%;
+    margin:auto;
+}
+
+.checkblock{
+    display: flex;
+
+}
+
+.checkbox{
+
+}
+
+.contrasenia{
+    display: flex;
+}
+
+.boton{
+    max-width: 50%;
+}
+
+.parrafoprimero{
+    display: flex;
+}
+
